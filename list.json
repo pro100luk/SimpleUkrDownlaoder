@@ -3,30 +3,30 @@
     {
       "id": "01007EF00011E000",
       "name": "The Legend of Zelda: Breath of the Wild",
-      "description": "Ukrainizer for The Legend of Zelda: Breath of the Wild",
+      "description": "Українізатор для The Legend of Zelda: Breath of the Wild. Включає переклад тексту, текстур та адаптацію шрифтів.",
       "author": "BOTW-LOC-Community",
       "category": "Lang",
-      "game_version": "1.8.0",
+      "game_version": "1.6.0",
       "translation_version": "1.0.0",
-      "download_url": "https://drive.google.com/uc?export=download&id=1jTdB4TvnhdOPhh0FOPUHl4S-o7_98wO8&confirm=t",
+      "download_url": "https://drive.google.com/uc?export=download&id=1jTdB4TvnhdOPhh0FOPUHl4S-o7_98wO8",
       "download_filename": "botw-ukrainian.zip",
       "image_url": "https://raw.githubusercontent.com/pro100luk/SimpleUkrDownlaoder/main/botw_icon.jpg",
       "file_size": 4,
       "updated_date": "2026-01-08",
-      "tags": ["Ukrainian", "Translation"]
+      "tags": ["Ukrainian", "Translation", "Text", "Dub"]
     },
     {
       "id": "010067300059A000",
       "name": "Mario + Rabbids® Kingdom Battle",
-      "description": "Ukrainizer for Mario + Rabbids® Kingdom Battle",
+      "description": "Українізатор для Mario + Rabbids® Kingdom Battle. Переклад основного сюжету та DLC.",
       "author": "BOTW-LOC-Community",
       "category": "Lang",
-      "game_version": "1.6.2225577",
+      "game_version": "1.9.5896",
       "translation_version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/pro100luk/SimpleUkrDownlaoder/main/mr.zip",
-      "download_filename": "botw-ukrainian.zip",
+      "download_filename": "mario-rabbids-ukr.zip",
       "image_url": "https://raw.githubusercontent.com/pro100luk/SimpleUkrDownlaoder/main/mr.jpg",
-      "file_size": 4,
+      "file_size": 12,
       "updated_date": "2026-01-08",
       "tags": ["Ukrainian", "Translation"]
     }
