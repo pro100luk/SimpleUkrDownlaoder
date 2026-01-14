@@ -16,14 +16,14 @@
       "tags": ["Ukrainian", "Translation"]
     },
     {
-      "id": "0100317013770000",
-      "name": "Mario + Rabbids: Sparks of hope",
-      "description": "Ukrainizer for Mario + Rabbids: Sparks of hope",
+      "id": "010067300059A000",
+      "name": "Mario + Rabbids® Kingdom Battle",
+      "description": "Ukrainizer for Mario + Rabbids® Kingdom Battle",
       "author": "BOTW-LOC-Community",
       "category": "Lang",
       "game_version": "1.6.2225577",
       "translation_version": "1.0.0",
-      "download_url": "https://drive.google.com/uc?export=download&id=1jTdB4TvnhdOPhh0FOPUHl4S-o7_98wO8&confirm=t",
+      "download_url": "https://raw.githubusercontent.com/pro100luk/SimpleUkrDownlaoder/main/mr.zip",
       "download_filename": "botw-ukrainian.zip",
       "image_url": "https://raw.githubusercontent.com/pro100luk/SimpleUkrDownlaoder/main/mr.jpg",
       "file_size": 4,
